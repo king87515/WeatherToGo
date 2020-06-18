@@ -48,6 +48,19 @@ path:hover {
   font-size: 18px;
 }
 
+#icon{
+  position: absolute;
+  top: 0px;	
+}
+
+a {
+  color: #495057;
+}
+
+i:hover {
+  color: #5e9eff;
+}
+
 #value:hover{
   color: blue;
 }
