@@ -26,7 +26,7 @@ path:hover {
 .title_area {
   position: absolute;
 /*   right: 20px; */
-  left: 620px;
+  left: 670px;
 /*   top: 20px; */
   color: white;
   font-size: 30px;
@@ -34,7 +34,7 @@ path:hover {
 
 .info_area{
   position: absolute;
-  left: 900px;
+  left: 950px;
   top: 40px;
   color: white;
   font-size: 30px;
