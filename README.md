@@ -5,4 +5,4 @@
 
 [Weather To Go Website](https://weathertogo.herokuapp.com/)
 
-`java` `springbbot` `mvc` `xml` `web application`
+`java` `springboot` `mvc` `xml` `web application`
